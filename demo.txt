@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 15cm 30mm 45mm
-=======
-15cm 25cm
->>>>>>> origin/feature_b
